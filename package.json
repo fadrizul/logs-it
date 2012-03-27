@@ -1,0 +1,19 @@
+{
+  "author": "Fadrizul H. <fadrizul@gmail.com> (http://github.com/fadrizul)",
+  "name": "logs-it",
+  "description": "Simple logging",
+  "version": "0.0.1",
+  "homepage": "http://github.com/fadrizul/logs-it",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fadrizul/logs-it.git"
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
