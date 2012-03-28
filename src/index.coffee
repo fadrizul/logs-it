@@ -1,6 +1,9 @@
 ###
-Logs-it by Fadrizul H.
+Logs-It
+Copyright (C) 2012 Fadrizul H. <fadrizul@gmail.com>
+MIT Licensed
 ###
+
 
 # Load & exports the module
 # ------------------------------------------------------------------------------

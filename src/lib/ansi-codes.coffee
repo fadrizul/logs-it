@@ -1,6 +1,9 @@
 ###
-Logs-It by Fadrizul H. - ANSI codes
+Logs-It
+Copyright (C) 2012 Fadrizul H. <fadrizul@gmail.com>
+MIT Licensed
 ###
+
 
 ansiCodes =
   off        : 0
